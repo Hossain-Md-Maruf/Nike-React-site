@@ -1,0 +1,17 @@
+#nike, .price
+{
+    color: orange;
+}
+.shoes-title, .shoe-title, .info-title
+{
+    color: rgb(96, 91, 91);
+}
+.slider img
+{
+    width: 500px;
+    height: 500px;
+}
+.copy-right
+{
+    color:brown;
+}
